@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1671463461,,"wq"
+|2,0,1671470741,,"wq"
 :q!
 |2,0,1671463177,,"q!"
 :w!
@@ -37,36 +37,52 @@
 |3,1,36,0,1,0,1671033009,"1"
 
 # File marks:
-'0  3  39  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
-|4,48,3,39,1671463461,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
-'1  6  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
-|4,49,6,0,1671463221,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
-'2  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main
-|4,50,1,0,1671463177,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main"
-'3  1  7  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
-|4,51,1,7,1671462495,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+'0  7  15  ~/alx-low_level_programming/0x05-pointers_arrays_strings/1-swap.c
+|4,48,7,15,1671470741,"~/alx-low_level_programming/0x05-pointers_arrays_strings/1-swap.c"
+'1  3  39  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,49,3,39,1671463461,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+'2  6  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,50,6,0,1671463221,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+'3  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main
+|4,51,1,0,1671463177,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main"
 '4  1  7  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
 |4,52,1,7,1671462495,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
-'5  20  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
-|4,53,20,5,1671462356,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+'5  1  7  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,53,1,7,1671462495,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 '6  20  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
 |4,54,20,5,1671462356,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
-'7  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
-|4,55,17,5,1671462356,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+'7  20  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,55,20,5,1671462356,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 '8  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
 |4,56,17,5,1671462356,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
-'9  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
-|4,57,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+'9  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,57,17,5,1671462356,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 
 # Jumplist (newest first):
+-'  7  15  ~/alx-low_level_programming/0x05-pointers_arrays_strings/1-swap.c
+|4,39,7,15,1671470741,"~/alx-low_level_programming/0x05-pointers_arrays_strings/1-swap.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/1-swap.c
+|4,39,1,0,1671470516,"~/alx-low_level_programming/0x05-pointers_arrays_strings/1-swap.c"
 -'  3  39  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
 |4,39,3,39,1671463461,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  3  39  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,3,39,1671463461,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671463231,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
 -'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
 |4,39,1,0,1671463231,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
 -'  6  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
 |4,39,6,0,1671463221,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 -'  6  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
 |4,39,6,0,1671463221,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  6  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,6,0,1671463221,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  6  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,6,0,1671463221,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  1  7  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,1,7,1671463184,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  1  7  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,1,7,1671463184,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 -'  1  7  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
 |4,39,1,7,1671463184,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 -'  1  7  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
@@ -79,6 +95,22 @@
 |4,39,1,0,1671463177,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main"
 -'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main
 |4,39,1,0,1671463177,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main
+|4,39,1,0,1671463177,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main
+|4,39,1,0,1671463177,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main
+|4,39,1,0,1671463177,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main
+|4,39,1,0,1671463177,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main"
+-'  1  7  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,1,7,1671462495,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  1  7  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,1,7,1671462495,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  1  7  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,1,7,1671462495,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  1  7  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,1,7,1671462495,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 -'  1  7  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
 |4,39,1,7,1671462495,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 -'  1  7  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
@@ -99,6 +131,18 @@
 |4,39,17,5,1671462415,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 -'  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
 |4,39,17,5,1671462415,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  20  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,20,5,1671462415,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,17,5,1671462415,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,17,5,1671462415,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  20  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,20,5,1671462415,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,17,5,1671462415,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,17,5,1671462415,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 -'  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
 |4,39,17,5,1671462356,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 -'  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
@@ -107,6 +151,22 @@
 |4,39,17,5,1671462356,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 -'  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
 |4,39,17,5,1671462356,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,17,5,1671462356,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,17,5,1671462356,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,17,5,1671462356,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  17  5  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,17,5,1671462356,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1671462224,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1671462224,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1671462224,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1671462224,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 -'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
 |4,39,1,0,1671462224,"~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h"
 -'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/main.h
@@ -147,98 +207,38 @@
 |4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
 -'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
 |4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
--'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
-|4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  1  0  ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,1,0,1671462122,"~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c"
 -'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
 |4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
 -'  1  37  ~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md
@@ -261,6 +261,16 @@
 |4,39,1,37,1671462080,"~/alx-low_level_programming/0x05-pointers_arrays_strings/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-low_level_programming/0x05-pointers_arrays_strings/1-swap.c
+	*	1671470739	0
+	"	7	15
+	^	7	16
+	.	7	15
+	+	16	0
+	+	3	59
+	+	5	16
+	+	7	15
 
 > ~/alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
 	*	1671463459	0
@@ -1756,10 +1766,3 @@
 	^	2	71
 	.	2	70
 	+	2	70
-
-> ~/alx-system_engineering-devops/0x02-shell_redirections/11-directories
-	*	1670255168	0
-	"	2	32
-	^	2	33
-	.	2	33
-	+	2	33
