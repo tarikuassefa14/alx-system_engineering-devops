@@ -139,3 +139,20 @@ return (0);
 
 
 
+cd root
+ls
+cd  alx-low_level_programming
+ls
+ls -la
+cd 0x05-pointers_arrays_strings
+ls
+git add .
+cd ..
+git add .
+cd ...
+cd ..
+git add .
+git commit -m 'alx'
+git push
+git push --set-upstream origin master
+exit
